@@ -39,6 +39,10 @@ Go to the project directory
 - A good bg img
 - Calc is completely working with remembering the prev operand
 - Hosted on Netlify and set up in production
+- Also Have catched all the exceptional cases for eg:-
+            - when a number is divided by 0 instead of showing NaN my program shows ∞
+            - Also when a operator like +, -, /, * is used without an operand it does not take input
+            - Also if . is inputed multiple times it stops the user from doing so
 - Used object oriented programming which i think reduces the lines of code to an amount and makes it more readable
 
 ## 😌 Honest Time to finish the project
